@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(119, 5, 5);
+    background-color: rgb(119, 5, 5);
 }
 
 p {
@@ -16,9 +16,10 @@ p {
     color: hotpink;
 }
 
-h1 {text-align: center
-    ;}
+h1 {
+    text-align: center;
+}
 
-    .queijo {
-        width: 150%;
-    }
+.queijo {
+    width: 150%;
+}
