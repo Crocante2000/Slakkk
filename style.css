@@ -27,4 +27,5 @@ h1 {
 
 header {
     border: solid 2px rgb(0, 0, 0);
+    padding: 20px;
 }
