@@ -23,3 +23,7 @@ h1 {
 .queijo {
     width: 150%;
 }
+
+header {
+    border: solid 2px black;
+}
