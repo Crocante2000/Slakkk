@@ -45,6 +45,10 @@ section {
     justify-content: center;
 }
 
+div {
+    margin-right: 20px;
+}
+
 section {
     ~~display: block;~~
     unicode-bidi: isolate;
